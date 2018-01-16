@@ -12,3 +12,9 @@ Clone this repository.
 From root of this repository run `npm install`, then `npm start`.
 
 View application at `localhost:7777`
+
+
+Further reading/resources:
+
+Official React documentation: https://reactjs.org/
+React Express course: http://www.react.express/
